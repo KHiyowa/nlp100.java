@@ -1,4 +1,4 @@
-package nlp100.java;
+package nlp100;
 
 public class Q01 {
 
